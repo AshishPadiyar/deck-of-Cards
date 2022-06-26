@@ -1,12 +1,12 @@
-package com.basic.framework.test.setUp.testcases;
+package com.basic.framework.test.testcases;
 
 import com.basic.framework.test.setUp.Setup;
-import com.basic.framework.test.setUp.businesslogic.APIRequests;
+import com.basic.framework.test.businesslogic.APIRequests;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class DrawCards extends Setup {
+public class DrawCardsTest extends Setup {
 
 
     @Test()

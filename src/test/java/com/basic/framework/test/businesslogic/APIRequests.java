@@ -1,4 +1,4 @@
-package com.basic.framework.test.setUp.businesslogic;
+package com.basic.framework.test.businesslogic;
 
 import com.basic.framework.test.setUp.Setup;
 import io.restassured.response.Response;
