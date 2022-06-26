@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.basic.framework.test.setUp.testcases.ShuffleCardTest" time="4.334" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.basic.framework.test.setUp.testcases.ShuffleCardTest" time="6.132" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\apadi\AppData\Local\Temp\surefire7166544765303046007\surefirebooter7843962526191509168.jar C:\Users\apadi\AppData\Local\Temp\surefire7166544765303046007 2022-06-26T16-36-16_850-jvmRun1 surefire1743262518715628841tmp surefire_05507198940573543093tmp"/>
+    <property name="sun.java.command" value="C:\Users\apadi\AppData\Local\Temp\surefire2475160317469993738\surefirebooter6769655472807494591.jar C:\Users\apadi\AppData\Local\Temp\surefire2475160317469993738 2022-06-26T21-09-34_942-jvmRun1 surefire8077704659660521531tmp surefire_03274158304515943777tmp"/>
     <property name="surefire.test.class.path" value="D:\selenium\deck-of-Cards\target\test-classes;D:\selenium\deck-of-Cards\target\classes;C:\Users\apadi\.m2\repository\io\rest-assured\rest-assured\4.5.1\rest-assured-4.5.1.jar;C:\Users\apadi\.m2\repository\org\codehaus\groovy\groovy\3.0.9\groovy-3.0.9.jar;C:\Users\apadi\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.9\groovy-xml-3.0.9.jar;C:\Users\apadi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\apadi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\apadi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\apadi\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\apadi\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\apadi\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\apadi\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\apadi\.m2\repository\io\rest-assured\json-path\4.5.1\json-path-4.5.1.jar;C:\Users\apadi\.m2\repository\org\codehaus\groovy\groovy-json\3.0.9\groovy-json-3.0.9.jar;C:\Users\apadi\.m2\repository\io\rest-assured\rest-assured-common\4.5.1\rest-assured-common-4.5.1.jar;C:\Users\apadi\.m2\repository\io\rest-assured\xml-path\4.5.1\xml-path-4.5.1.jar;C:\Users\apadi\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\apadi\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\apadi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\apadi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\apadi\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\apadi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\apadi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\apadi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\apadi\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\apadi"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\apadi\AppData\Local\Temp\surefire7166544765303046007\surefirebooter7843962526191509168.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\apadi\AppData\Local\Temp\surefire2475160317469993738\surefirebooter6769655472807494591.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,5 +61,92 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="drawTheCards" classname="com.basic.framework.test.setUp.testcases.ShuffleCardTest" time="3.909"/>
+  <testcase name="drawTheCards" classname="com.basic.framework.test.setUp.testcases.ShuffleCardTest" time="5.329">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Date: Sun, 26 Jun 2022 19:09:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+Vary: Origin
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IzBgieo0kuLIiG1vfc%2FAKzWgtEv3h%2FA1AYgsH%2BFlBoWMbG%2FA5qDSDmm7115%2FewhmxkcGr0v%2B%2FQe%2BdSWpIHht376ny8jrgJtDDa%2FTVIq%2F3ffHrxt5q0j9OcxzfWRw99Qsq0Z9GqU%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 72183d303fee789d-VIE
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "success": true,
+    "deck_id": "lhbu1snzq062",
+    "remaining": 52,
+    "shuffled": true
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 Jun 2022 19:09:46 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-Frame-Options: DENY
+Vary: Origin
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FTWOAUs32UyiC4i7o7eDmq1BYgKP9XWpW2h8dnF3sIayMc03cbfyBiSPOmQStfHFkZ5xm6rmcszI7ca%2FCi81GZDKHyunprgJL2wWaWWvoHtX14gku5RxzicJ7dK1ZvsEupwn3G4%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 72183d3c2f707875-VIE
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "success": true,
+    "deck_id": "lhbu1snzq062",
+    "cards": [
+        {
+            "code": "5C",
+            "image": "https://deckofcardsapi.com/static/img/5C.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/5C.svg",
+                "png": "https://deckofcardsapi.com/static/img/5C.png"
+            },
+            "value": "5",
+            "suit": "CLUBS"
+        },
+        {
+            "code": "0H",
+            "image": "https://deckofcardsapi.com/static/img/0H.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/0H.svg",
+                "png": "https://deckofcardsapi.com/static/img/0H.png"
+            },
+            "value": "10",
+            "suit": "HEARTS"
+        }
+    ],
+    "remaining": 50
+}
+Records from 0 iteration
+5C
+https://deckofcardsapi.com/static/img/5C.png
+{svg=https://deckofcardsapi.com/static/img/5C.svg, png=https://deckofcardsapi.com/static/img/5C.png}
+5
+CLUBS
+
+Records from 1 iteration
+0H
+https://deckofcardsapi.com/static/img/0H.png
+{svg=https://deckofcardsapi.com/static/img/0H.svg, png=https://deckofcardsapi.com/static/img/0H.png}
+10
+HEARTS
+
+]]></system-out>
+  </testcase>
 </testsuite>
